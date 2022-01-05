@@ -1,9 +1,11 @@
- 👋 Hi, I’m Amanda Ventura
- I’m interested in Front End development
- I’m currently learning more as a Jr.Front End developer
- I’m looking for job or project opportunities
-You can reach me by email at saenz242ever@gmail.com,
-my LinkedIn is https://www.linkedin.com/in/amanda-ventura-070130152/ 
+   Hi, I am Amanda Ventura 🌺
+ 
+ Ethusiastic Jr.Front End Developer who started learning front end development from a coding bootcamp called SheCodes.
+ Currently, I continued learning more front end and web development in a bootcamp from the University of Texas at El Paso.
+ Technologies that I learned were HTML, CSS, Javascript, Bootstrap, React. 
+ 
+You can reach me by email at saenz242ever@gmail.com, or
+my LinkedIn is https://www.linkedin.com/in/amanda-ventura-070130152/.
 
 
 <!---
