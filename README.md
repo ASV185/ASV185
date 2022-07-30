@@ -13,8 +13,13 @@ Languages and Tools that I use:
 ![CSS-icon](https://user-images.githubusercontent.com/74805696/181995008-ee73f9f7-d479-4ef8-82bc-d167851cbc7a.png)
 ![javascript-icon](https://user-images.githubusercontent.com/74805696/181995013-5f6e1a7c-2dff-4b20-80e3-e16522f7233d.png)
 ![react-icon](https://user-images.githubusercontent.com/74805696/181995786-dbd30ab9-325e-412d-b5f1-41b2f9a415cb.png)
+![bootstrap](https://user-images.githubusercontent.com/74805696/181996468-97e43133-51d0-4e2a-b2eb-5bc1f47ea2e4.png)
+![github-icon](https://user-images.githubusercontent.com/74805696/181996475-7fb05253-b5df-43c4-a0bf-61f716c55447.png)
+![seo-icon](https://user-images.githubusercontent.com/74805696/181996427-b9a82621-58d7-4fb0-a401-4bdcd426ee0d.png)
+![responsive-icon](https://user-images.githubusercontent.com/74805696/181996442-71d773ce-3869-4e1f-8915-2815cde26430.png)
+![accessibility-icon](https://user-images.githubusercontent.com/74805696/181996498-954538e0-9c7f-495d-840a-5b3012f287bf.png)
 
-Icons by Freepik and Kiranshastry
+Icons by Freepik and Kiranshastry and Riajulislam
 
 <!---
 ASV185/ASV185 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
