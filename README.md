@@ -12,7 +12,9 @@ Languages and Tools that I use:
 ![html-icon](https://user-images.githubusercontent.com/74805696/181994998-d7fb0965-fb14-4c0f-a7c5-4181585d0af6.png)
 ![CSS-icon](https://user-images.githubusercontent.com/74805696/181995008-ee73f9f7-d479-4ef8-82bc-d167851cbc7a.png)
 ![javascript-icon](https://user-images.githubusercontent.com/74805696/181995013-5f6e1a7c-2dff-4b20-80e3-e16522f7233d.png)
+![react-icon](https://user-images.githubusercontent.com/74805696/181995786-dbd30ab9-325e-412d-b5f1-41b2f9a415cb.png)
 
+Icons by Freepik and Kiranshastry
 
 <!---
 ASV185/ASV185 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
