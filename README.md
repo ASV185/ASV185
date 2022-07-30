@@ -8,6 +8,7 @@ You can reach me by email at saenz242ever@gmail.com, or
 my LinkedIn is https://www.linkedin.com/in/amanda-ventura-070130152/.
 
 Languages and Tools that I use:
+
 ![html-icon](https://user-images.githubusercontent.com/74805696/181994998-d7fb0965-fb14-4c0f-a7c5-4181585d0af6.png)
 ![CSS-icon](https://user-images.githubusercontent.com/74805696/181995008-ee73f9f7-d479-4ef8-82bc-d167851cbc7a.png)
 ![javascript-icon](https://user-images.githubusercontent.com/74805696/181995013-5f6e1a7c-2dff-4b20-80e3-e16522f7233d.png)
