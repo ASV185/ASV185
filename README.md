@@ -1,7 +1,7 @@
    Hi, I am Amanda Ventura 🌺
  
  Ethusiastic Front End Developer who started learning front end development from a coding bootcamp called SheCodes.
- Currently, I continued learning more front end and web development in a bootcamp from the University of Texas at El Paso.
+ Currently, I continued learning more classes with SheCodes to received all front end development certificates. 
  Technologies that I learned are HTML, CSS, Javascript, Bootstrap, React. 
  
 You can reach me by email at saenz242ever@gmail.com, or
