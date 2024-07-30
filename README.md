@@ -1,10 +1,10 @@
    Hi, I am Amanda Ventura 🌺
  
  Ethusiastic Front End Developer who started learning front end development from a coding bootcamp called SheCodes.
- Currently, I continued learning more classes with SheCodes to received all front end development certificates. 
- Technologies that I learned are HTML, CSS, Javascript, Bootstrap, React. 
+ Currently, I continued learning more classes with SheCodes to received all front end development certificates and backend development certificates. 
+ Technologies that I learned are HTML, CSS, Javascript, Bootstrap, React, and Python. 
  
-You can reach me by email at saenz242ever@gmail.com, or
+You can reach me by email at amaventura0@gmail.com, or
 my LinkedIn is https://www.linkedin.com/in/amanda-ventura-070130152/.
 
 Languages and Tools that I use:
